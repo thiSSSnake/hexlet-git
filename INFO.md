@@ -1,5 +1,3 @@
-git is awesome!
+how can you work on windows?
 
-Hexlet also awesome!
-experiment with amend
-new data
+its awesome!
